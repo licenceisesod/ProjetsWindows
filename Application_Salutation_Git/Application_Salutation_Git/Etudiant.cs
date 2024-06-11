@@ -26,5 +26,9 @@ namespace Application_Salutation_Git
         public Etudiant()
         {
         }
+
+        public void Enregistrer()
+        {
+        }
     }
 }
