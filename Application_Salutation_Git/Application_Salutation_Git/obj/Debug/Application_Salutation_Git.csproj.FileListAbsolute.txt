@@ -7,3 +7,6 @@ C:\Users\user\Desktop\Projet git ISESOD 2024\ProjetsWindows\Application_Salutati
 C:\Users\user\Desktop\Projet git ISESOD 2024\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\obj\Debug\Application_Salutation_Git.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\Projet git ISESOD 2024\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\obj\Debug\Application_Salutation_Git.exe
 C:\Users\user\Desktop\Projet git ISESOD 2024\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\obj\Debug\Application_Salutation_Git.pdb
+C:\Users\lenovo\OneDrive\Bureau\Projets Collaboratif\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\bin\Debug\Application_Salutation_Git.exe.config
+C:\Users\lenovo\OneDrive\Bureau\Projets Collaboratif\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\obj\Debug\Application_Salutation_Git.exe
+C:\Users\lenovo\OneDrive\Bureau\Projets Collaboratif\ProjetsWindows\Application_Salutation_Git\Application_Salutation_Git\obj\Debug\Application_Salutation_Git.pdb
